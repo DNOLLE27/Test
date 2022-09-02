@@ -1,2 +1,2 @@
-# Bienvenue sur le TestProject !
+Bienvenue sur le TestProject !
 TEST
