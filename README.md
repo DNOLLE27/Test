@@ -1,1 +1,1 @@
-<center><p>Bienvenue sur le TestProject !</p></center>
+<p align="center">Bienvenue sur le TestProject !</p>
