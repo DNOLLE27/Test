@@ -7,4 +7,4 @@
 L'application est disponible en éxécuatable et en solution source ce qui permettra à de futurs développeurs de travailler dessus.
 
 Pour pouvoir reprendre le projet, il faudra au préalable installer Visual Studio pour ouvrir la solution (.sln) !
-<p align="center"><img width="100" height="100" src="https://logos-marques.com/wp-content/uploads/2021/03/Visual-Studio-Logo.png"></p>
+<p align="center"><img width="100" height="500" src="https://logos-marques.com/wp-content/uploads/2021/03/Visual-Studio-Logo.png"></p>
