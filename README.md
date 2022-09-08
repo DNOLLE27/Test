@@ -33,3 +33,7 @@ Pour pouvoir reprendre le projet, il faudra au préalable installer Visual Studi
 Tout les éléments du projet se nomme de la manière suivante : **\[initial élément]_\[action]**
 
 ***Exemple :*** le bouton pour ajouter se nommera *"btn_ajouter"*, la textBox pour le code sera *"tB_Code"*, etc...
+
+## <p align="center">Déploiement :</p>
+
+L'application, une gois générer, doit être mise sur le serveur central ou tout le système des claviers numérique des différents batîments afin de pouvoir déployer les digicodes plus rapidement. Il suffit juste de venir copier-coller le logiciel et de le lancer pour qu'il puisse passé en mode configuration afin de pouvoir connecter les différents claviers.
