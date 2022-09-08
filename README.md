@@ -30,6 +30,6 @@ Pour pouvoir reprendre le projet, il faudra au préalable installer Visual Studi
 
 ## <p align="center">Standardisation du nom des éléments :</p>
 
-Tout les éléments du projet se nomme de la manière suivante : \[initial élément]_\[action]
+Tout les éléments du projet se nomme de la manière suivante : **\[initial élément]_\[action]**
 
 Exemple : le bouton pour ajouter se nommera "btn_ajouter", la textBox pour le code sera "tB_Code", etc...
