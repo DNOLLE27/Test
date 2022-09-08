@@ -16,7 +16,7 @@ Pour pouvoir reprendre le projet, il faudra au préalable installer Visual Studi
 
 <p align="center">Nous sommes tous les trois des étudiant en BTS SIO (SLAM) à l'établissement Saint-Adjutor, à Vernon.</p>
 
-<p align="center"><img width="300" height="100" src="https://www.stadjutor.com/wp-content/uploads/2021/01/logo-stadjutor.png"></p>
+<p align="center"><img width="350" height="100" src="https://www.stadjutor.com/wp-content/uploads/2021/01/logo-stadjutor.png"></p>
 
 <p align="center">M. Lucien SAPIN - Directeur de la Maison des Ligues de Lorraine (M2L).</p>
 
