@@ -59,5 +59,5 @@ La M2L dispose de claviers numériques sur les murs de leurs différents batimen
 ## <p align="center">Merci !</p>
 
 ***Merci beaucoup à la M2L de nous avoir fait confiance tout au long du projet et merci à l'établissement Saint-Adjutor de nous avoir enseigné tout ce qui a permis la réalisation de celui-ci !***
-<br/>
+<br/><br/>
 **<p align="right">Version de DIGICODE :** 1.0</p>
