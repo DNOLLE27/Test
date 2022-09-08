@@ -52,6 +52,12 @@ L'application, une gois générer, doit être mise sur le serveur central ou tou
 
 ## <p align="center">Tehcnologies :</p>
 
-La M2L dispose de claviers numériques sur les murs de leurs différents batiments qui, en saisissant le bon code, permet d'ouvrir la porte. Les claviers sont liés au serveur principal via des câbles afin de les controler sur celui-ci nottament via le logiciel DIGICODE.
+La M2L dispose de claviers numériques sur les murs de leurs différents batiments qui, en saisissant le bon code, permet d'ouvrir la porte. Les claviers sont liés au serveur principal via des câbles afin de les contrôler sur celui-ci nottament via le logiciel DIGICODE.
 
 <p align="center"><img src="https://www.sofernim.com/wp-content/uploads/2016/07/controle_acces_Portes_de_garage.jpg"></p>
+
+## <p align="center">Merci !</p>
+
+***Merci beaucoup à la M2L de nous avoir fait confiance tout au long du projet et merci à l'établissement Saint-Adjutor de nous avoir enseigné tout ce qui a permis la réalisation de celui-ci !***
+
+<p align="right">**Version :** 1.0</p>
