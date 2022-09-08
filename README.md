@@ -16,7 +16,7 @@ Pour pouvoir reprendre le projet, il faudra au préalable installer Visual Studi
 <p align="center">NOLLE Damien - Chef de projet et développeurs.</p>
 <p align="center">DUCHENE Clément et LETELLIER Thomas - Développeurs.</p>
 
-<p align="center">Nous sommes tous les trois des étudiant en BTS SIO (SLAM) à l'établissement Saint-Adjutor, à Vernon.</p>
+*<p align="center">Nous sommes tous les trois des étudiant en BTS SIO (SLAM) à l'établissement Saint-Adjutor, à Vernon.</p>*
 
 <p align="center"><img width="350" height="100" src="https://www.stadjutor.com/wp-content/uploads/2021/01/logo-stadjutor.png"></p>
 
