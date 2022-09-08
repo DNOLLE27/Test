@@ -22,7 +22,8 @@ Pour pouvoir reprendre le projet, il faudra au préalable installer Visual Studi
 
 <p align="center">M. Lucien SAPIN - Directeur de la Maison des Ligues de Lorraine (M2L).</p>
 
-<p align="center">Qui nous a commandé le projet et permis sa réalisation.</p>
+*<p align="center">Qui nous a commandé le projet et permis sa réalisation.</p>*
+
 
 ***<p align="center">TOUT LES DROITS DU PROJET REVIENNENT À LA M2L !</p>***
 
