@@ -21,3 +21,9 @@ M. Lucien SAPIN - Directeur de la Maison des Ligues de Lorraine (M2L).
 Qui nous a commandé le projet et permis sa réalisation.
 
 TOUT LES DROITS DU PROJET REVIENNENT À LA M2L !
+
+Standardisation du nom des éléments :
+
+Tout les éléments du projet se nomme de la manière suivante : \[initial élément]_\[action]
+
+Exemple : le bouton pour ajouter se nommera "btn_ajouter", la textBox pour le code sera "tB_Code", etc...
