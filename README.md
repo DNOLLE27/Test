@@ -49,3 +49,5 @@ L'application, une gois générer, doit être mise sur le serveur central ou tou
 - En cas d'erreur de saisie des codes ou lors de la génération des codes, un système d'historique/logs est mis en place.
 
 - Système de diffusion des mots de passe aux claviers et aux employés.
+
+## <p align="center">Fonctionnalités :</p>
