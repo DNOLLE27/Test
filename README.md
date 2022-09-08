@@ -37,3 +37,15 @@ Tout les éléments du projet se nomme de la manière suivante : **\[initial él
 ## <p align="center">Déploiement :</p>
 
 L'application, une gois générer, doit être mise sur le serveur central ou tout le système des claviers numérique des différents batîments afin de pouvoir déployer les digicodes plus rapidement. Il suffit juste de venir copier-coller le logiciel et de le lancer pour qu'il puisse passé en mode configuration afin de pouvoir connecter les différents claviers.
+
+## <p align="center">Fonctionnalités :</p>
+
+- Mode configuration pour venir configurer les claviers des différents batiments.
+
+- Interface de connexion pour accéder à l'enssemble de l'application via le matricule et le code générer précédement (si aucun code n'a été générer le code par défaut est : 0000).
+
+- Cryptage des code générer.
+
+- En cas d'erreur de saisie des codes ou lors de la génération des codes, un système d'historique/logs est mis en place.
+
+- Système de diffusion des mots de passe aux claviers et aux employés.
