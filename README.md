@@ -9,18 +9,18 @@ L'application est disponible en éxécuatable et en solution source ce qui perme
 Pour pouvoir reprendre le projet, il faudra au préalable installer Visual Studio pour ouvrir le fichier solution (.sln) !
 <p align="center"><img width="200" height="100" src="https://logos-marques.com/wp-content/uploads/2021/03/Visual-Studio-Logo.png"></p>
 
-<p align="center">## Auteurs :
+## <p align="center">Auteurs :</p>
 
-NOLLE Damien - Chef de projet et développeurs.
-DUCHENE Clément et LETELLIER Thomas - Développeurs.
+<p align="center">NOLLE Damien - Chef de projet et développeurs.</p>
+<p align="center">DUCHENE Clément et LETELLIER Thomas - Développeurs.</p>
 
-Nous sommes tous les trois des étudiant en BTS SIO (SLAM) à l'établissement Saint-Adjutor, à Vernon.
+<p align="center">Nous sommes tous les trois des étudiant en BTS SIO (SLAM) à l'établissement Saint-Adjutor, à Vernon.</p>
 
-M. Lucien SAPIN - Directeur de la Maison des Ligues de Lorraine (M2L).
+<p align="center">M. Lucien SAPIN - Directeur de la Maison des Ligues de Lorraine (M2L).</p>
 
-Qui nous a commandé le projet et permis sa réalisation.
+<p align="center">Qui nous a commandé le projet et permis sa réalisation.</p>
 
-TOUT LES DROITS DU PROJET REVIENNENT À LA M2L !</p>
+<p align="center">TOUT LES DROITS DU PROJET REVIENNENT À LA M2L !</p>
 
 Standardisation du nom des éléments :
 
