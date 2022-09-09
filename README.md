@@ -26,7 +26,7 @@ Pour pouvoir reprendre le projet, il faudra au préalable installer Visual Studi
 <br/>
 ***<p align="center">TOUT LES DROITS DU PROJET REVIENNENT À LA M2L !</p>***
 
-<p align="center"><img width="130" height="150" src="https://colstad-my.sharepoint.com/personal/damien_nolle_stadjutor_com/Documents/m2l_logo.png"></p>
+<p align="center"><img width="130" height="150" src="https://zupimages.net/up/22/36/vjpg.png"></p>
 
 ## <p align="center">Standardisation du nom des éléments :</p>
 
