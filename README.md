@@ -61,3 +61,8 @@ La M2L dispose de claviers numériques sur les murs de leurs différents batimen
 ***Merci beaucoup à la M2L de nous avoir fait confiance tout au long du projet et merci à l'établissement Saint-Adjutor de nous avoir enseigné tout ce qui a permis la réalisation de celui-ci !***
 <br/><br/>
 **<p align="right">Version de DIGICODE :** 1.0</p>
+
+```
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser # Optional: Needed to run a remote script the first time
+irm get.scoop.sh | iex
+```
