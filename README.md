@@ -66,3 +66,5 @@ La M2L dispose de claviers numériques sur les murs de leurs différents batimen
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser # Optional: Needed to run a remote script the first time
 irm get.scoop.sh | iex
 ```
+
+--
