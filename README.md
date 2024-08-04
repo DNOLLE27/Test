@@ -67,4 +67,4 @@ Set-ExecutionPolicy RemoteSigned -Scope CurrentUser # Optional: Needed to run a 
 irm get.scoop.sh | iex
 ```
 
---
+---
